@@ -4,10 +4,7 @@
 function App() {
   return (
     <div>
-   
-      <div >
-        Another little game
-      </div>
+      <h1>Another little game</h1>
     </div>
   );
 }

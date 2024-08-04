@@ -1,11 +1,13 @@
-20729
-64/home/nathan/Joy-Of-React/Tic-tac-toe/dist/index.975ef6c8.js.map1722789713793051390 0
-60/home/nathan/Joy-Of-React/Tic-tac-toe/dist/index.975ef6c8.js1722789713793051390 0
-63/home/nathan/Joy-Of-React/Tic-tac-toe/dist/favicon.09ab7678.png1722789713743051390 0
-42/home/nathan/Joy-Of-React/Tic-tac-toe/dist1722789713733051390 1
+20733
+64/home/nathan/Joy-Of-React/Tic-tac-toe/dist/index.975ef6c8.js.map1722791477693070027 0
+60/home/nathan/Joy-Of-React/Tic-tac-toe/dist/index.975ef6c8.js1722791477693070027 0
+63/home/nathan/Joy-Of-React/Tic-tac-toe/dist/favicon.09ab7678.png1722791477633070027 0
+42/home/nathan/Joy-Of-React/Tic-tac-toe/dist1722791477623070027 1
 56/home/nathan/Joy-Of-React/Tic-tac-toe/public/favicon.png1722788378373037281 0
 50/home/nathan/Joy-Of-React/Tic-tac-toe/package.json1722789233503046316 0
-56/home/nathan/Joy-Of-React/Tic-tac-toe/src/components/App1722788378373037281 1
+52/home/nathan/Joy-Of-React/Tic-tac-toe/src/styles.css1722791421243069431 0
+56/home/nathan/Joy-Of-React/Tic-tac-toe/src/components/App1722791195543067046 1
+51/home/nathan/Joy-Of-React/Tic-tac-toe/src/reset.css1722791362003068805 0
 72/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/resolve-from/index.js1722789630153050507 0
 76/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/resolve-from/package.json1722789630103050506 0
 63/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/resolve-from1722789630203050507 1
@@ -2096,7 +2098,7 @@
 91/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/react-dom/cjs/react-dom.profiling.min.js1722789632103050527 0
 111/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/react-dom/cjs/react-dom-server-legacy.node.production.min.js1722789631363050520 0
 111/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/react-dom/cjs/react-dom-server-legacy.browser.development.js1722789630793050513 0
-63/home/nathan/Joy-Of-React/Tic-tac-toe/src/components/App/App.js1722788378373037281 0
+63/home/nathan/Joy-Of-React/Tic-tac-toe/src/components/App/App.js1722791680593072171 0
 100/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/react-dom/cjs/react-dom-test-utils.development.js1722789631693050523 0
 104/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/react-dom/cjs/react-dom-server.node.production.min.js1722789631673050523 0
 107/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js1722789631573050522 0
@@ -2157,7 +2159,7 @@
 97/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/tsconfig-paths/node_modules/json5/lib/parse.js1722789630493050510 0
 88/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/tsconfig-paths/node_modules/json5/lib1722789630663050512 1
 97/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/tsconfig-paths/node_modules/json5/package.json1722789630703050513 0
-44/home/nathan/Joy-Of-React/Tic-tac-toe/public1722788378373037281 1
+44/home/nathan/Joy-Of-React/Tic-tac-toe/public1722791195543067046 1
 95/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@eslint/js/src/configs/eslint-recommended.js1722789630353050509 0
 84/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/tsconfig-paths/node_modules/json51722789630713050513 1
 89/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/tsconfig-paths/node_modules/.bin/json51722789633863050546 0
@@ -2195,7 +2197,7 @@
 104/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/eslint-plugin-testing-library/rules/prefer-find-by.js1722789631273050519 0
 107/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/eslint-plugin-testing-library/rules/await-async-query.js1722789630343050509 0
 107/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/eslint-plugin-testing-library/rules/await-async-utils.js1722789630393050509 0
-41/home/nathan/Joy-Of-React/Tic-tac-toe/src1722788378373037281 1
+41/home/nathan/Joy-Of-React/Tic-tac-toe/src1722791413173069346 1
 113/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/eslint-plugin-testing-library/rules/prefer-presence-queries.js1722789631293050519 0
 116/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/eslint-plugin-testing-library/rules/no-wait-for-empty-callback.js1722789631193050518 0
 114/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/eslint-plugin-testing-library/rules/no-wait-for-side-effects.js1722789631213050518 0
@@ -3821,7 +3823,7 @@
 96/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/es-abstract/5/AbstractRelationalComparison.js1722789631463050521 0
 90/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/utility-types/dist/utility-types.js.map1722789630613050512 0
 84/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/es-abstract/5/IsDataDescriptor.js1722789632663050533 0
-55/home/nathan/Joy-Of-React/Tic-tac-toe/public/index.html1722789713383051386 0
+55/home/nathan/Joy-Of-React/Tic-tac-toe/public/index.html1722791195543067046 0
 84/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/graphemer/lib/boundaries.d.ts.map1722789631283050519 0
 71/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/es-abstract/5/abs.js1722789631343050519 0
 77/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/es-abstract/5/ToInteger.js1722789632983050537 0
@@ -8383,7 +8385,7 @@
 98/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@babel/helpers/lib/helpers/applyDecs2301.js.map1722789631463050521 0
 90/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@parcel/packager-raw/lib/RawPackager.js1722789630243050508 0
 100/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@parcel/transformer-svg/test/parseFuncIRI.test.js1722789630583050511 0
-53/home/nathan/Joy-Of-React/Tic-tac-toe/dist/index.html1722789713743051390 0
+53/home/nathan/Joy-Of-React/Tic-tac-toe/dist/index.html1722791477643070027 0
 94/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/axobject-query/lib/etc/objects/AudioRole.js1722789630863050514 0
 136/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/typescript-estree/_ts3.4/dist/create-program/describeFilePath.d.ts1722789631843050525 0
 88/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/uri-js/dist/esnext/schemes/https.d.ts1722789631423050520 0
@@ -11560,7 +11562,7 @@
 99/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/axobject-query/lib/etc/objects/FigcaptionRole.js1722789631353050519 0
 119/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/scope-manager/dist/referencer/Referencer.d.ts.map1722789632263050529 0
 79/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/fastq/.github/dependabot.yml1722789630833050514 0
-37/home/nathan/Joy-Of-React/Tic-tac-toe1722789641563050627 1
+37/home/nathan/Joy-Of-React/Tic-tac-toe1722791476933070019 1
 76/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/lodash/fp/differenceBy.js1722789632303050529 0
 122/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/eslint-plugin/dist/rules/no-use-before-define.js.map1722789632333050530 0
 83/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/css-tree/cjs/tokenizer/utils.cjs1722789631883050525 0
@@ -12125,6 +12127,7 @@
 106/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@parcel/transformer-html/node_modules/semver/preload.js1722789631413050520 0
 80/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/svgo/plugins/removeViewBox.js1722789632013050526 0
 132/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/eslint-plugin/dist/rules/naming-convention-utils/schema.js.map1722789632393050530 0
+61/home/nathan/Joy-Of-React/Tic-tac-toe/dist/index.db9ed22c.css1722791477653070027 0
 124/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/eslint-plugin/dist/rules/member-delimiter-style.js.map1722789632233050529 0
 112/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/eslint-plugin/docs/rules/await-thenable.md1722789632413050531 0
 113/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/scope-manager/dist/variable/Variable.js.map1722789632293050529 0
@@ -13510,7 +13513,7 @@
 102/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/scope-manager/dist/lib/es2017.js1722789631183050518 0
 112/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/utils/node_modules/semver/classes/range.js1722789631413050520 0
 94/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@swc/helpers/_/_initializer_define_property1722789632323050530 1
-50/home/nathan/Joy-Of-React/Tic-tac-toe/src/index.js1722788378373037281 0
+50/home/nathan/Joy-Of-React/Tic-tac-toe/src/index.js1722791446793069701 0
 106/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/eslint-plugin-jsx-a11y/__tests__/src/util/implicitRoles1722789631963050526 1
 117/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@typescript-eslint/utils/node_modules/eslint-scope/lib/variable.js1722789630733050513 0
 118/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@swc/helpers/_/_class_static_private_field_destructure/package.json1722789632233050529 0
@@ -17944,6 +17947,7 @@
 62/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/locate-path1722789630283050508 1
 78/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/esquery/dist/esquery.min.js1722789631383050520 0
 105/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/csso/node_modules/css-tree/lib/syntax/node/Operator.js1722789632203050528 0
+65/home/nathan/Joy-Of-React/Tic-tac-toe/dist/index.db9ed22c.css.map1722791477653070027 0
 97/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/caniuse-lite/data/features/cookie-store-api.js1722789631833050524 0
 110/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/csso/node_modules/css-tree/lib/syntax/node/AtrulePrelude.js1722789631943050526 0
 105/home/nathan/Joy-Of-React/Tic-tac-toe/node_modules/@parcel/runtime-browser-hmr/src/loaders/.eslintrc.json1722789630733050513 0
