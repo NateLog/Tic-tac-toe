@@ -6,9 +6,7 @@ function App() {
     <div>
    
       <div >
-        Holy shit how did that work???
-
-        It can't be anything I've done that's for sure!
+        Another little game
       </div>
     </div>
   );
