@@ -1,8 +1,8 @@
 {
-    "name": "word-game",
+    "name": "tic-tac-toe",
     "version": "0.1.0",
     "private": true,
-    "author": "NatLog",
+    "author": "nathan",
     "dependencies": {
       "eslint": "8.49.0",
       "eslint-config-react-app": "7.0.1",
